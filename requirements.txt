@@ -1,0 +1,6 @@
+transformers[torch]
+pandas
+datasets
+soundfile
+librosa
+numpy==1.24.1
