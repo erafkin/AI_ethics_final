@@ -4,3 +4,4 @@ datasets
 soundfile
 librosa
 numpy==1.24.1
+scikit-learn
