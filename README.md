@@ -1,6 +1,8 @@
-# Final for Ethics in AI 
+# Final Project for Ethics in AI 
 
-Looking at bias in pretrained audio embeddings via cluster purity. Trying to debias the embeddings too. 
+Playground for exploring bias in pretrained audio embeddings via cluster purity.
+
+Trying linear methods to debias the embeddings. 
 
 ## Setup
 Developed in `python3.11`
